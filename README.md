@@ -1,6 +1,8 @@
+<p align="center">
 <a href="https://blazefire.cloud">
-<center><img src="https://blazefire.cloud/assets/images/blazefire_white.png" height="100"></center>
+<img src="https://blazefire.cloud/assets/images/blazefire_white.png" height="100" alt="Blazefire">
 </a>
+</p>
 
 # Name Migrator (Python)
 A simple name migrator. Its not specificially for rp servers so you can use it for anything you want. What is does is simple. The script splits a column by whitespaces and creates a firstname plus lastname. 
