@@ -1,4 +1,5 @@
-<a href="https://blazefire.cloud">![Blazefire](https://blazefire.cloud/assets/images/blazefire_white.png)
+<a href="https://blazefire.cloud">
+<center><img src="https://blazefire.cloud/assets/images/blazefire_white.png" height="100"></center>
 </a>
 
 # Name Migrator (Python)
